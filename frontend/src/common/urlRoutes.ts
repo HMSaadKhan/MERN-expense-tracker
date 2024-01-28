@@ -1,0 +1,13 @@
+export const login = "user/login";
+export const signup = "user/signup";
+export const updatePassword = "user/update-password";
+export const resetPassword = "user/reset-password";
+export const createDayExpense = "expenses/grocery-expenses";
+export const createMonthlyExpense = "expenses/monthly-expenses";
+export const getDayExpense = "expenses/grocery-expenses-over-time";
+export const getMonthlyExpense = "expenses/monthly-costs-by-category";
+export const getAllExpense = "expenses/";
+export const deleteExpense = "expenses/";
+export const getCategories = "category/";
+export const createCategories = "category/";
+export const deleteCategories = "category/";
